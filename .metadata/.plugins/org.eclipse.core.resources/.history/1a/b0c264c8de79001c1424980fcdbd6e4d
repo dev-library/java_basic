@@ -1,0 +1,13 @@
+package interaction;
+
+public class Seller {
+	// 변수로 int money(매출), int mango(재고)를 가집니다.
+	private int money; // 매출액
+	private int mango; //재고(개수)
+	
+	// 생성자에서 money는 초기값이 0이고, mango는 입력받도록 해주세요.
+	public Seller(int mango) {
+		this.money = 0;
+		this.mango = mango;
+	}
+}

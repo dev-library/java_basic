@@ -1,0 +1,12 @@
+package superkeyword;
+
+// 초음속비행기는 비행기를 상속합ㄴ다.
+public class SupersonicAirplane extends Airplane {
+	// 초음속비행기도 일반 비행기처럼 속도값만 가집니다.
+	// 따라서 변수는 추가로 정의하지 않습니다.
+	
+
+
+	
+	
+}

@@ -1,0 +1,6 @@
+package overriding;
+
+// Animal을 상속받게 해 주세요.
+public class Horse extends Animal {
+	
+}

@@ -1,0 +1,18 @@
+package interaction;
+
+public class Buyer {
+	// 구매자는 money(소지금), mango(소지망고개수)를 멤버변수로 가집니다.
+	private int money;
+	private int mango;
+	private int MANGO_PRICE;
+	
+	// 생성자에는 돈을 받아 소지금을 초기화해주고 망고는 0으로 초기화합니다.
+	public Buyer(int money) {
+		this.money = money;
+		this.mango = 0;
+		this.MANGO_PRICE = 5000;
+	}
+	
+	// showBuyer()를 이용해 소지망고, 소지금을 볼 수 있습니다.
+	
+}

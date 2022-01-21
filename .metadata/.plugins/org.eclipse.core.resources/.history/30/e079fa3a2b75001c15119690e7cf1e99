@@ -1,0 +1,10 @@
+package accessmodifier;
+
+public class MainP197 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

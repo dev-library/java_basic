@@ -1,0 +1,14 @@
+package accessmodifier;
+
+// Commoner를 상속합니다.
+public class Magician extends Commoner {
+
+	// 생성자를 만들어주세요.
+	// Magician측에서 설정하는 변수는 추가로 없지만
+	// 생성자는 상속되지 않으므로 부모쪽 생성자를
+	// 처리할 수 있도록 만들어주세요
+	public Magician() {
+		
+	}
+	
+}

@@ -1,0 +1,10 @@
+package accessmodifier;
+
+public class Warrior extends Commoner {
+
+	public Warrior(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+}

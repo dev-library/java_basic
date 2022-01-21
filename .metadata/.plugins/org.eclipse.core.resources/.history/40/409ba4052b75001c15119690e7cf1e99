@@ -1,0 +1,22 @@
+package accessmodifier;
+
+public class Warrior {// 정의부, 실행은 Main에서 할 예정임.
+	
+	public int hp;
+	public int strangth;
+	public String name;
+	public int lv;
+	public int money;
+	
+	// 생성자를 만들어주시되, name만 사용자에게 입력받고
+	// 나머지는 hp 20, str 3, lv 1, money 0을
+	// 자동으로 입력받도록 해 주세요.
+	public Warrior(String n) {
+		name = n;// 입력받은 사용자 이름 n을 name에 저장
+		hp = 20;
+		strangth = 3;
+		lv = 1;
+		money = 0;
+	}
+	
+}

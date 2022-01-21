@@ -1,0 +1,14 @@
+package superkeyword;
+
+public class test {
+
+	public static void main(String[] args) {
+		int a = 11;
+		
+		if(5 < a && a < 20) {
+			System.out.println("a는 5보다 크고 20보다 작다.");
+		}
+
+	}
+
+}

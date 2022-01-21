@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\ict03-00\Desktop\210120(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210119(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210118(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210114(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210113(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210112(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210111(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210110(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210107(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210106(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210105(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210104(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\210103(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\211231(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\211230(강사).zip"/>
+			<item value="C:\Users\ict03-00\Desktop\211229(강사).zip"/>
+		</list>
+	</section>
+</section>
