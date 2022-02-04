@@ -9,6 +9,8 @@ public class Builder05P408_2 {
 		System.out.println(a);
 		int checkNum = a.length() % 3;
 		
+		System.out.println(checkNum);
+		
 		int loopNum = a.length() - checkNum;
 		
 		for(int i = loopNum; i > -1; i--) {

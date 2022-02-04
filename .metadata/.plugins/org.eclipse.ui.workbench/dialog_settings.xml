@@ -14,6 +14,7 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\ict03-00\Desktop\210203(강사).zip"/>
 			<item value="C:\Users\ict03-00\Desktop\210128(강사).zip"/>
 			<item value="C:\Users\ict03-00\Desktop\210127(강사).zip"/>
 			<item value="C:\Users\ict03-00\Desktop\210127(강사)- 1교시중.zip"/>
@@ -33,7 +34,6 @@
 			<item value="C:\Users\ict03-00\Desktop\210105(강사).zip"/>
 			<item value="C:\Users\ict03-00\Desktop\210104(강사).zip"/>
 			<item value="C:\Users\ict03-00\Desktop\210103(강사).zip"/>
-			<item value="C:\Users\ict03-00\Desktop\211231(강사).zip"/>
 		</list>
 	</section>
 </section>
