@@ -22,6 +22,28 @@ public class ArrayList02P447 {
 		// 없다면 false를 출력해준다.
 		System.out.println(list1.contains("사과"));
 		System.out.println(list1.contains("복숭아"));
+		
+		// .get(번호)는 주어진 인덱스에 저장되어 있는 자료를 조회해줍니다.
+		System.out.println(list1.get(1));
+		// 없는 인덱스번호를 입력해보세요.
+		// 없는 번호 입력시 예외가 발생해 전체 코드가 종료됩니다.
+		//System.out.println(list1.get(100));
+		
+		// .size()로 내부 요소 개수를 확인할 수 있습니다.
+		System.out.println(list1.size());
+		
+		// .isEmpty()는 비어있는지 여부를 체크해줍니다.
+		System.out.println(list1.isEmpty());
+		
+		// 빈 리스트 list2를 여러분이 직접 선언해서 .isEmpty()와 .size()를 조회해주세요.
+		List<String> list2 = new ArrayList<>();
+		
+		System.out.println(list2.isEmpty());
+		System.out.println(list2.size());
 	}
-
 }
+
+
+
+
+
