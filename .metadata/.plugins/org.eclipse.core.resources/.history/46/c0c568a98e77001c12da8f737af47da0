@@ -1,8 +1,0 @@
-package overloading;
-
-public class Caculator {
-
-	public void plus(int a) {// 파라미터로 int a값만 요구
-		System.out.println(a + "에 1을 더한 값은 " + (a + 1) + "입니다.");
-	}
-}
