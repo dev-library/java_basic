@@ -6,4 +6,5 @@ public class DoKaeBi extends Monster {
 		super("도깨비", 12, 3, 0, 300000);
 	}
 
+	
 }

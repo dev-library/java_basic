@@ -22,7 +22,6 @@ public class MainClass1 {
 		w1.showStatus();
 		*/
 		DoKaeBi d1 = new DoKaeBi();
-		
 		w1.hunt(d1);
 		w1.hunt(d1);
 		w1.hunt(d1);
